@@ -1,0 +1,3 @@
+## Object Literal Technique
+
+A compact alternative to the `switch` statement in programming using a dictionary (or hashmap). Instead of using multiple `case` statements, you can map each `case` to a function or value in a dictionary, making the code shorter and easier to read. This approach lets you call the function directly from the dictionary, enhancing efficiency and readability by removing repetitive `case` blocks.
